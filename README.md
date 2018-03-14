@@ -1,2 +1,2 @@
 # A-B-Testing-Udacity
-These are the answers for the final project on the A/B testing course dictated by Udacity
+Here I developed the final project on the A/B testing course dictated by Udacity. Please go to the wiki to see analysis.
